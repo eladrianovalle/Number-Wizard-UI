@@ -15,4 +15,8 @@ public class LevelManager : MonoBehaviour {
 		Debug.Log ("Quit request received!");
 		Application.Quit ();
 	}
+
+	public static void LoadWin() {
+		SceneManager.LoadScene ("Win");
+	}
 }

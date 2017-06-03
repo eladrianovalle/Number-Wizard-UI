@@ -797,7 +797,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Choose a number between 1 and 1000
 
-    I will guess it with ease!'
+    I''ll easily guess it in less than 5 tries!'
 --- !u!222 &2017476291
 CanvasRenderer:
   m_ObjectHideFlags: 0
